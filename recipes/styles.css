@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+
+.home{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;  
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+    font-weight: bold;
+    
+}
+
+.desc{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+}
